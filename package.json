@@ -1,0 +1,19 @@
+{
+  "name": "rishabh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabh956/rishabh.git"
+  },
+  "author": "rishabh srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishabh956/rishabh/issues"
+  },
+  "homepage": "https://github.com/rishabh956/rishabh#readme"
+}
